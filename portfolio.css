@@ -756,5 +756,6 @@ margin-top: 10px;
   }
   .contactform{
     max-width: 100%;
+    order: 2;
   }
 }
